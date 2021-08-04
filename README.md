@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nalytica
-- 👀 I’m interested in Python, Data Science, Crypto markets
+- 👀 I’m interested in Python, Data Science, Crypto markets, Javascript, React, Django
 - 🌱 I’m currently learning Django, React, Javascript
 - 💞️ I’m looking to collaborate on data science projects, full stack development with Django-React
-- 📫 You can reach me by email.
+- 📫 You can reach me by my email
 
 <!---
 nalytica/nalytica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
