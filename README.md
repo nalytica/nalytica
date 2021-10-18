@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nalytica
-- 👀 I’m interested in Python, Data Science, Crypto markets, Javascript, React, Django
-- 🌱 I’m currently learning Django, React, Javascript
-- 💞️ I’m looking to collaborate on data science projects, full stack development with Django-React
+- 👀 I’m interested in Python, Data Science, C
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me by my email
 
 <!---
